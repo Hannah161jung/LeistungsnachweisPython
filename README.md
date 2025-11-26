@@ -3,7 +3,9 @@
 am Projekt arbeiten:
 ----------------------------------------------------------------------------------
 Hannah Jung (junghan1@students.zhaw.ch)
+
 Yakin Boumaiza (boumayak@students.zhaw.ch)
+
 Teodora Marinkovic (marinteo@students.zhaw.ch)
 
 
