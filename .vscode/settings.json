@@ -2,33 +2,4 @@
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda",
     "python-envs.pythonProjects": []
-
-
-     # 1. Fragestellung(en) und Datenbeschaffungen
-
-
-# 1.1 Entwicklung der Todesursachen im internationen Vergleich
-
-
-# 1.2 Fragestellung
-
-/ Wir wollen genre einen direkten Vergleich zwischen einem hochentwickeltem Industrieland
-wie die Schweiz und einem Schwellenland wie die Türkei aufzeigen.
-Die Frage lautet "Wie sich die Anteile der Todesfälle durch Krankheitsgruppen
-in den beiden Länder zwischen 1990 und 2016 entwickelte?"
-
-
-# 1.3 Datenquelle(n)
-
-/ Als unsere Quelle entschieden wir uns den Datensätzen "Share of deaths from major couses" 
-von "Our World in Date" gebrauch zu machen
-
-
-# 1.4 Daten beschaffen und Laden
-
-import pandas as pd
-from matplotlib import pyplot as plt
-
 }
-
- 
