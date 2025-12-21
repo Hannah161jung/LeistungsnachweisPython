@@ -11,4 +11,4 @@ Teodora Marinkovic (marinteo@students.zhaw.ch)
 
 Projektidee
 ----------------------------------------------------------------------------------
-"How have the top three causes of death in Europe changed between 1980 and 2020, and what factors may explain these shifts?" 
+How do the causes of death profiles in Germany, Venezuela, and India differ between 1990 and 2016, and what conclusions can be drawn from this about their respective stages in the epidemiological transition?
