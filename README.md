@@ -11,4 +11,4 @@ Teodora Marinkovic (marinteo@students.zhaw.ch)
 
 Projektidee
 ----------------------------------------------------------------------------------
-How do the causes of death profiles in Germany, Venezuela, and India differ between 1990 and 2016, and what conclusions can be drawn from this about their respective stages in the epidemiological transition?
+How do the causes of death profiles in Germany, Venezuela, and Japan differ between 1990 and 2016, and what conclusions can be drawn from this about their respective stages in the epidemiological transition?
